@@ -1,0 +1,25 @@
+_repo: An-Anglo-American-Alliance-A-Serio-Comic-Romance-and-Forecast-of-the-Future_52913
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Casparian, Gregory
+    birthdate: 1856
+    deathdate: 1942
+    gutenberg_agent_id: '47112'
+    url: http://www.gutenberg.org/2009/agents/47112
+description: Illustrated by the author.
+gutenberg_issued: '2016-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52913'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Lesbians -- Fiction'
+- GITenberg
+title: 'An Anglo-American Alliance: A Serio-Comic Romance and Forecast of the Future'
+url: http://www.gutenberg.org/ebooks/52913
